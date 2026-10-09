@@ -23,3 +23,5 @@ Thumbs.db
 
 # Local database backups
 *.sql.gz
+# Admin Excel data
+admin_data.xlsx
